@@ -3,7 +3,7 @@
 Lösningsförslag på del 1, en WebApp som listar nyheter från ett valbart arkiv som även kan specifiera antalet artiklar som max kan hämtas.
 Använder sig av [Envision](https://envisionui.io) i presentationen.
 
-At the time of writing this README this WebApp can be tested at [edu-dev10.sitevision-cloud.se](https://edu-dev10.sitevision-cloud.se)
+Vid tidpunkten denna README skrevs kan denna WebApp testas på [edu-dev10.sitevision-cloud.se](https://edu-dev10.sitevision-cloud.se)
 
 ## Installation and running
 
