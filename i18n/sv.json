@@ -1,0 +1,6 @@
+{
+  "settings": "Inställningar",
+  "archive": "Arkiv (välj ditt arkiv med nyheter)",
+  "maxArticlesToShow": "Max antal artiklar att visa (standard är 10 om inte annat anges)",
+  "noArticlesFound": "Inga artiklar hittades"
+}

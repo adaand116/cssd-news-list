@@ -1,0 +1,6 @@
+{
+  "settings": "Settings",
+  "archive": "Archive (select your archive with news)",
+  "maxArticlesToShow": "Max articles to show (default is 10 if not specified)",
+  "noArticlesFound": "No articles found"
+}

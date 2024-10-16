@@ -1,0 +1,20 @@
+{
+  "id": "news-list",
+  "version": "0.0.1",
+  "name": {
+    "en": "News List",
+    "sv": "Nyhetslista"
+  },
+  "author": "Sitevision",
+  "description": {
+    "en": "A WebApp that lists news from an archive",
+    "sv": "En WebApp som listar nyheter från ett arkiv"
+  },
+  "helpUrl": "",
+  "type": "WebApp",
+  "bundled": true,
+  "maxUploadSizeInMB": 0,
+  "requiredLibs": {
+    "react": "17.0.2"
+  }
+}
